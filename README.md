@@ -21,6 +21,8 @@ I am a passionate developer focused on building scalable web applications and ex
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=monster9k&show_icons=true&theme=radium" alt="Minh Khoa's GitHub stats" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monster9k&layout=compact&theme=radium" alt="Top Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monster9k&show_icons=true&theme=radium" alt="GitHub stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monster9k&layout=compact&theme=radium" alt="Top Langs" />
+</p>
