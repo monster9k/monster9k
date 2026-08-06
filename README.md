@@ -16,7 +16,7 @@ I am a passionate developer focused on building scalable web applications and ex
 *   **Frontend:** React.js
 *   **Backend:** Node.js, NestJS
 *   **Databases & Services:** Prisma, Supabase, Redis (Upstash)
-*   **Tools & Networks:** Git, Render, Vercel, Cisco Packet Tracer
+*   **Tools & Networks:** Git, Render, Vercel
 *   **Languages:** Vietnamese (Native), English (IELTS 6.0), Japanese (N4)
 
 ### 📈 GitHub Stats
