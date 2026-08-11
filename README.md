@@ -5,7 +5,9 @@
 I am a passionate developer focused on building scalable web applications and exploring the integration of Artificial Intelligence into software systems. I highly value Clean Code principles, structured documentation, and professional development workflows like Conventional Commits.
 
 ### 🏆 Certifications & Achievements
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-NLP_Concepts-0078D4?logo=microsoft&logoColor=white&style=flat-square)](https://learn.microsoft.com/vi-vn/users/nguynvitminhkhoa-9646/achievements/4cn7yyzk)
+[![NLP Concepts](https://img.shields.io/badge/Microsoft_Learn-NLP_Concepts-0078D4?logo=microsoft&logoColor=white&style=flat-square)](https://learn.microsoft.com/vi-vn/users/nguynvitminhkhoa-9646/achievements/4cn7yyzk)
+[![GenAI Chat App](https://img.shields.io/badge/Microsoft_Learn-GenAI_Chat_App-0078D4?logo=microsoft&logoColor=white&style=flat-square)](https://learn.microsoft.com/vi-vn/users/nguynvitminhkhoa-9646/achievements/abghufb7)
+[![GitHub MCP & Copilot](https://img.shields.io/badge/Microsoft_Learn-GitHub_MCP-0078D4?logo=microsoft&logoColor=white&style=flat-square)](https://learn.microsoft.com/vi-vn/users/nguynvitminhkhoa-9646/achievements/wmdg5jtn)
 
 ### 🚀 What I'm doing
 
@@ -18,7 +20,7 @@ I am a passionate developer focused on building scalable web applications and ex
 ### 🛠 Tech Stack
 
 *   **Frontend:** React.js, Next.js
-*   **Backend:** Node.js, NestJS, C# (.NET), Java
+*   **Backend:** Node.js, NestJS, C# (.NET), Java (using buffered IO streams)
 *   **Databases & Services:** Prisma, MongoDB, PostgreSQL (Supabase), Redis (Upstash)
 *   **Tools & Networks:** Git, GitHub Copilot, Postman, Render, Vercel, Cisco Packet Tracer
 *   **Languages:** Vietnamese (Native), English (IELTS 6.0), Japanese (N4)
