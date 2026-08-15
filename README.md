@@ -9,6 +9,11 @@ I am a passionate developer focused on building scalable web applications and ex
 [![GenAI Chat App](https://img.shields.io/badge/Microsoft_Learn-GenAI_Chat_App-0078D4?logo=microsoft&logoColor=white&style=flat-square)](https://learn.microsoft.com/vi-vn/users/nguynvitminhkhoa-9646/achievements/abghufb7)
 [![GitHub MCP & Copilot](https://img.shields.io/badge/Microsoft_Learn-GitHub_MCP-0078D4?logo=microsoft&logoColor=white&style=flat-square)](https://learn.microsoft.com/vi-vn/users/nguynvitminhkhoa-9646/achievements/wmdg5jtn)
 
+
+[![HackerRank Certificate 1](https://img.shields.io/badge/HackerRank-Certificate_1-00EA64?logo=hackerrank&logoColor=white&style=flat-square)](https://www.hackerrank.com/certificates/iframe/d4333fa1f8a5)
+[![HackerRank Certificate 2](https://img.shields.io/badge/HackerRank-Certificate_2-00EA64?logo=hackerrank&logoColor=white&style=flat-square)](https://www.hackerrank.com/certificates/iframe/ffa8775ae942)
+[![HackerRank Certificate 3](https://img.shields.io/badge/HackerRank-Certificate_3-00EA64?logo=hackerrank&logoColor=white&style=flat-square)](https://www.hackerrank.com/certificates/iframe/a6de5b698f31)
+
 ### 🚀 What I'm doing
 
 *   **🔭 Current Focus:** Developing robust full-stack applications using React.js, Next.js, Node.js, NestJS, and Prisma.
